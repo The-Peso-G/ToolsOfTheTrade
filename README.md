@@ -4,7 +4,9 @@
 
 A fork of the Tools of the Trade list that starts tagging items as ```decentralized``` and/or ```opensource``` to help the web3 community to work on identifying great tools and building blocks. That, of course, is a continuum, and this is meant to be a pragmatic list for individuals, open source teams, and commercial startups alike building in the web3 / decentralized tech space.
 
--- @bmann, @SPADEbuilders
+**[Boris Mann](https://blog.bmannconsulting.com)**
+
+[![](https://img.shields.io/github/followers/bmann.svg?style=social&label=Follow%20bmann)](https://github.com/bmann) [![](https://img.shields.io/twitter/follow/bmann.svg?style=social)](https://twitter.com/bmann)
 
 ---
 
@@ -894,10 +896,6 @@ This list also uses tags to help when searching the contents:
 **[Craig Davison](https://davison.io)**
 
 [![](https://img.shields.io/github/followers/davisonio.svg?style=social&label=Follow%20davisonio)](https://github.com/davisonio) [![](https://img.shields.io/twitter/follow/davisonio.svg?style=social)](https://twitter.com/davisonio)
-
-**[Boris Mann](https://blog.bmannconsulting.com)**
-
-[![](https://img.shields.io/github/followers/bmann.svg?style=social&label=Follow%bmann)](https://github.com/bmann) [![](https://img.shields.io/twitter/follow/bmann.svg?style=social)](https://twitter.com/bmann)
 
 With many thanks to the [contributors](https://github.com/spadebuilders/ToolsOfTheTrade/graphs/contributors). :clap:
 
