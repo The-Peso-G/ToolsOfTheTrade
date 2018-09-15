@@ -1,4 +1,12 @@
-# Hacker News Tools of the Trade :sunglasses: [![](https://cdn.rawgit.com/sindresorhus/awesome/d7305f3/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Hacker News Tools of the Trade - Decentralized Edition :sunglasses: [![](https://cdn.rawgit.com/sindresorhus/awesome/d7305f3/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
+## Decentralized Edition
+
+A fork of the Tools of the Trade list that starts tagging items as ```decentralized``` and/or ```opensource``` to help the web3 community to work on identifying great tools and building blocks. That, of course, is a continuum, and this is meant to be a pragmatic list for individuals, open source teams, and commercial startups alike building in the web3 / decentralized tech space.
+
+-- @bmann, @SPADEbuilders
+
+---
 
 > Tools of The Trade, from [Hacker News](https://news.ycombinator.com).
 
@@ -766,6 +774,8 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 * Confluence Questions (Q&A for your team) | https://www.atlassian.com/software/confluence/questions
 * bitbucket's default Wiki - comes with own repo, markdown/creole, much lighter than Confluence.
 * SlimWiki | https://slimwiki.com |
+* HackMD | https://hackmd.io | Web-socket markdown based "pad" style wiki. Use the main site for public note taking | Private Enterprise Edition available | hosted
+* CodiMD | https://github.com/hackmdio/codimd | Community version of HackMD, works great with Deploy-to-Heroku button | opensource | Self-hosted 
 
 ### Offsite Backups
 
@@ -871,6 +881,9 @@ The best ways to use this list are:
 This list also uses tags to help when searching the contents:
 
 - **Hosted?** `Hosted`, `Self-hosted`
+- **Open Source?** `opensource`
+- **Decentralized?** `decentralized`
+  
 
 ## Authors
 
@@ -882,6 +895,10 @@ This list also uses tags to help when searching the contents:
 
 [![](https://img.shields.io/github/followers/davisonio.svg?style=social&label=Follow%20davisonio)](https://github.com/davisonio) [![](https://img.shields.io/twitter/follow/davisonio.svg?style=social)](https://twitter.com/davisonio)
 
-With many thanks to the [contributors](https://github.com/cjbarber/ToolsOfTheTrade/graphs/contributors). :clap:
+**[Boris Mann](https://blog.bmannconsulting.com)**
 
-**Contributions are welcome!** Check out the [Contributing Guidelines](https://github.com/cjbarber/ToolsOfTheTrade/blob/master/CONTRIBUTING.md). :raised_hands:
+[![](https://img.shields.io/github/followers/bmann.svg?style=social&label=Follow%bmann)](https://github.com/bmann) [![](https://img.shields.io/twitter/follow/bmann.svg?style=social)](https://twitter.com/bmann)
+
+With many thanks to the [contributors](https://github.com/spadebuilders/ToolsOfTheTrade/graphs/contributors). :clap:
+
+**Contributions are welcome!** Check out the [Contributing Guidelines](https://github.com/spadebuilders/ToolsOfTheTrade/blob/master/CONTRIBUTING.md). :raised_hands:
