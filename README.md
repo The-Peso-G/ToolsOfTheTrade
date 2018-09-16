@@ -345,7 +345,7 @@ Features: goals of the week, week view and quadrant matrix, pomodoro timer, shar
 * Librato | https://www.librato.com | [@Librato](https://twitter.com/Librato) | $0.05/metric/mo to $0.30/metric/mo | Librato provides a complete solution for monitoring and understanding the metrics that impact your business at all levels of the stack.
 * Scout | https://scoutapp.com/
 
-### Customer Support/Help Desks
+### Customer Support, Help Desks, Group Email
 
 * Desk | https://www.desk.com | [@desk](https://twitter.com/desk) | $3/mo - $50/mo | Deliver Customer Service That Wows | Desk.com creates the leading customer service application, which helps fast-growing companies deliver outstanding customer support. Desk.com's intuitive user interface and powerful features make solving customers' problems more efficient for the entire company. Plus, Desk.com is the only Customer Service Application backed by Salesforce, providing easy integration with other Salesforce services and robust security. There are thousands of companies using Desk.com as their help desk software application, from household names like Square and Instagram to the burrito shop down the street. Give it a try for free.
 * HelpScout | https://www.helpscout.net | [@helpscout](https://twitter.com/helpscout) | $15/ mo | Scalable customer support, no help desk headaches | Based on conditions you specify, Help Scout automatically performs one or more actions.
@@ -367,7 +367,8 @@ your customers.
 * Jitbit Helpdesk | https://www.jitbit.com/helpdesk/ | [@jitbithelpdesk](https://twitter.com/jitbithelpdesk) | $29/mo - $199/mo | A help desk app that actually makes your work easier, not harder. | Comes in both hosted and on-premise versions. Very well designed and easy to use. Has all the must-have features and doesn't get in your way.
 * Drift | https://www.drift.com | [@drift](https://twitter.com/drift) | free for < 100 contacts, paid from $49/mo | Stop wasting your website traffic. | Sales-oriented live chat and in-app messaging, with chatbot automation.
 * Drift | https://www.drift.com | [@drift](https://twitter.com/drift) | free for < 100 contacts, paid from $49/mo | Stop wasting your website traffic. | Sales-oriented live chat and in-app messaging, with chatbot automation.
-* Zammad | https://www.zammad.com | [@zammadhq](https://twitter.com/zammadhq) | $0/mo - $24/mo | Zammad is a award winning open source helpdesk/customer support system with a beautiful UI and many features to manage customer communication via several channels like telephone, facebook, twitter, chat and e-mails. It is distributed under the GNU AFFERO General Public License (AGPL).
+* Zammad | https://www.zammad.com | [@zammadhq](https://twitter.com/zammadhq) | $0/mo - $24/mo | Zammad is a award winning open source helpdesk/customer support system with a beautiful UI and many features to manage customer communication via several channels like telephone, facebook, twitter, chat and e-mails. It is distributed under the GNU AFFERO General Public License (AGPL). | opensource
+* Missive | https://missiveapp.com | [@missiveapp](https://twitter.com/drift) | Shared email inboxes with assignment, lets people triage email as a team | free for 15 day history 5 shared accounts, $8 per user 6 months, $12 per user unlimited history
 
 
 ### Transactional Email
