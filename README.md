@@ -638,7 +638,7 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 * Yammer | https://www.yammer.com/
 * Limechat | http://limechat.net/
 * Flowdock | Free for teams up to 5 people | https://www.flowdock.com/
-* Stride | Free | https://www.stride.com
+* Stride | Free | https://www.stride.com | Atlassian, being acquired by Slack
 * Slack | https://slack.com/ | Free - $12.5/user | Team collaboration and chat tool. Supports webhooks and has integrations with other tools.
 * Skype | https://www.skype.com | Free | Video conference, chat and voice call VOIP application.
 * Google Hangouts | https://hangouts.google.com/ | Free | Video conference and chat application by Google. It is browser based and supports multiple participants on the same video call.
@@ -648,8 +648,9 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 * Gitter | https://gitter.im | Chat for open-source and private development teams, with strong Github integration features
 * appear.in | one click video conversations
 * Convo | https://www.convo.com/
-* Zoom | https://www.zoom.us/
+* Zoom | https://www.zoom.us/ | Video and Web Conference | Free Basic personal edition, 40min limit, Pro $14.99/month | Hosted
 * Telegram | https://telegram.org/
+* Jitsi | https://jitsi.org | Free | Video conference, chat, and voice | opensource, Hosted at https://meet.jit.si/, or Self-Host
 
 [HipChat (now Stride) Alternatives](https://github.com/cjbarber/hipchat-alternatives)
 
